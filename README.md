@@ -30,7 +30,7 @@ I am currently working on developing my skills in Tensorflow and I want to also 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
       </picture>
       </a>
-        <a href="https://www.linkedin.com/in/sathvik-srivathsan-002127246/" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/sathvik123" target="_blank" rel="noreferrer">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
