@@ -1,7 +1,7 @@
 Hi 👋 My name is Sathvik Srivathsan
 ===================================
 
-Neural Networks Developer
+Machine Learning Developer
 -------------------------
 
 I am currently working on developing my skills in Tensorflow and I want to also expand my expertise on Pytorch.
